@@ -1,0 +1,3 @@
+Welcome to s3shell {0}.
+Hit <tab> for options, type <help> for manual.
+Completions for s3 paths depend on last -ls calls.
