@@ -1,6 +1,6 @@
 # s3shell
 
-s3shell is a shell-like interface to Amazon Web Services s3.
+s3shell is a shell-like interface to Amazon Web Services s3.  
 Built on top of s4cmd, it speaks a dialect of common UNIX lingo.
 
 ### Example
