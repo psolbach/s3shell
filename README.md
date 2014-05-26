@@ -29,3 +29,6 @@ Built on top of s4cmd, it speaks a dialect of common UNIX lingo.
 - cd /usr/local bin
 - ln -ls s3shell.py s3shell
 - chmod +x s3shell
+
+### Disclaimer
+This is very much WIP.
