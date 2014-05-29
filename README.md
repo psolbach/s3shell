@@ -25,10 +25,8 @@ Built on top of s4cmd, it speaks a dialect of common UNIX lingo.
 
 - touch /tmp/s3shell_completer.log
 - touch /tmp/s3history.txt
-- cp s3shell.py /usr/local/bin
-- cd /usr/local bin
-- ln -ls s3shell.py s3shell
-- chmod +x s3shell
+- ln -ls s3shell.py /usr/local/bin/s3shell
+- chmod +x /usr/local/bin/s3shell
 
 ### Disclaimer
 This is very much WIP.
